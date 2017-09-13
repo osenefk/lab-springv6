@@ -2,8 +2,10 @@
 Ce projet est géré par Maven. 
 Il mette en oeuvre d'une part l'injection de dependances via la specification CDI avec l'annotation @Inject.
 Et d'autre part, l'utilisation de Spring JDBC pour créer rapidement votre couche d’accès aux données JDBC (DAO).
-Et donc la mise en oeuvre de la source de données (DataSource) JDBC comme un bean Spring et l’injecter à l’exécution. 
+Et donc la mise en oeuvre de la source de données (DataSource) JDBC comme un bean Spring et l’injecter à l’exécution.
+
 Les atouts de spring JDBC sont :
+
 — Diminution de la taille du code, grâce à classes fournies par Spring. 
 — Gestion des exceptions réalisée par Spring pour vou
 Les annotations utilisés tels que @Name et @Inject sont dits standards.
