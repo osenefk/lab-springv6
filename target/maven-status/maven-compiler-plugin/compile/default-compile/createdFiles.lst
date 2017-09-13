@@ -1,0 +1,7 @@
+com\objis\springinject\presentation\Demo.class
+com\objis\springinject\dao\IClientDao.class
+com\objis\springinject\service\IServiceClient.class
+com\objis\springinject\domaine\Employe.class
+com\objis\springinject\service\ClientService.class
+com\objis\springinject\dao\ClientDaoImpl.class
+com\objis\springinject\domaine\Client.class
